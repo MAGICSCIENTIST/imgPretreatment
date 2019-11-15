@@ -39,6 +39,7 @@ _f.splitSimilerData(pathList).then(x=>{
     console.log(`已处理${x.length}个文件`);    
 })
 ```
+
  
  # Todo(很有可能鸽的列表)
  - [ ] 把之前写的支持正则的代码移过来
