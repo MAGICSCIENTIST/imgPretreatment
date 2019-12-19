@@ -13,7 +13,7 @@ npm i
 let filter = require('../src/index')
 let config = {
     output: './splitResults3', //输出到哪里
-    entry: 'D:\\BaiduNetdiskDownload\\xxx', //需要处理的数据在哪里    
+    entry: 'D:\\BaiduNetdiskDownload\\大桂山', //需要处理的数据在哪里    
     //筛选关键字
     exceptList: [  
         "白鹇", "山斑鸠", "松鼠", "野猪", "黄鼠狼", "黄猄", "猕猴", "小灵猫", "豹猫", "紫啸鸫", "果子狸"

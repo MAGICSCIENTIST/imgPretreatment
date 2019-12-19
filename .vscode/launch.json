@@ -14,6 +14,12 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "Launch Program2",
+            "program": "${workspaceFolder}/example/readdir.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "启动程序",
             "args": ["${workspaceFolder}/src/index.ts"],
             "runtimeArgs": ["-r", "ts-node/register"],

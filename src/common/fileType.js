@@ -2,7 +2,7 @@ let fs = require('fs-extra')
 let path = require('path')
 
 let imageExName = [
-    '.jpg', '.png', '.jpeg'
+    '.jpg', '.png', '.jpeg', ".bmp", ".gif"
 ]
 let videoExName = [
     '.mp4', '.avi'
